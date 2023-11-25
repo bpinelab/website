@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goldydocs – Data i skyen</title>
-    <link>/no/docs/cloud-computing/</link>
+    <link>https://bpinelab.github.io/website/no/docs/cloud-computing/</link>
     <description>Recent content in Data i skyen on Goldydocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Tue, 03 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/no/docs/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://bpinelab.github.io/website/no/docs/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Docs: Detaljert om monolitter: Detaljert spesifikasjon</title>
-      <link>/no/docs/cloud-computing/in-depth-monoliths-detailed-spec/</link>
+      <link>https://bpinelab.github.io/website/no/docs/cloud-computing/in-depth-monoliths-detailed-spec/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/no/docs/cloud-computing/in-depth-monoliths-detailed-spec/</guid>
+      <guid>https://bpinelab.github.io/website/no/docs/cloud-computing/in-depth-monoliths-detailed-spec/</guid>
       <description>
         
         
@@ -323,10 +323,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Praktiske eksempler</title>
-      <link>/no/docs/cloud-computing/examples/</link>
+      <link>https://bpinelab.github.io/website/no/docs/cloud-computing/examples/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/no/docs/cloud-computing/examples/</guid>
+      <guid>https://bpinelab.github.io/website/no/docs/cloud-computing/examples/</guid>
       <description>
         
         
@@ -342,10 +342,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Steg for steg hjelpeartikler</title>
-      <link>/no/docs/cloud-computing/tutorials/</link>
+      <link>https://bpinelab.github.io/website/no/docs/cloud-computing/tutorials/</link>
       <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/no/docs/cloud-computing/tutorials/</guid>
+      <guid>https://bpinelab.github.io/website/no/docs/cloud-computing/tutorials/</guid>
       <description>
         
         
@@ -361,10 +361,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Innsiden av Java: Hvordan virker det?</title>
-      <link>/no/docs/cloud-computing/the-inside-of-java-how-does-it-work/</link>
+      <link>https://bpinelab.github.io/website/no/docs/cloud-computing/the-inside-of-java-how-does-it-work/</link>
       <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/no/docs/cloud-computing/the-inside-of-java-how-does-it-work/</guid>
+      <guid>https://bpinelab.github.io/website/no/docs/cloud-computing/the-inside-of-java-how-does-it-work/</guid>
       <description>
         
         
@@ -667,10 +667,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: </title>
-      <link>/no/docs/cloud-computing/in-depth-go-detailed-spec/</link>
+      <link>https://bpinelab.github.io/website/no/docs/cloud-computing/in-depth-go-detailed-spec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/no/docs/cloud-computing/in-depth-go-detailed-spec/</guid>
+      <guid>https://bpinelab.github.io/website/no/docs/cloud-computing/in-depth-go-detailed-spec/</guid>
       <description>
         
         

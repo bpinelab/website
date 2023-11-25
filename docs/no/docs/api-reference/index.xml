@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goldydocs – Komplett API-referance</title>
-    <link>/no/docs/api-reference/</link>
+    <link>https://bpinelab.github.io/website/no/docs/api-reference/</link>
     <description>Recent content in Komplett API-referance on Goldydocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     <lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/no/docs/api-reference/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://bpinelab.github.io/website/no/docs/api-reference/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Docs: Praktiske eksempler</title>
-      <link>/no/docs/api-reference/examples/</link>
+      <link>https://bpinelab.github.io/website/no/docs/api-reference/examples/</link>
       <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/no/docs/api-reference/examples/</guid>
+      <guid>https://bpinelab.github.io/website/no/docs/api-reference/examples/</guid>
       <description>
         
         
@@ -36,10 +36,10 @@
     
     <item>
       <title>Docs: Matten til monolitter: Detaljert spesifikasjon</title>
-      <link>/no/docs/api-reference/the-math-of-monoliths-detailed-spec/</link>
+      <link>https://bpinelab.github.io/website/no/docs/api-reference/the-math-of-monoliths-detailed-spec/</link>
       <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/no/docs/api-reference/the-math-of-monoliths-detailed-spec/</guid>
+      <guid>https://bpinelab.github.io/website/no/docs/api-reference/the-math-of-monoliths-detailed-spec/</guid>
       <description>
         
         
@@ -342,10 +342,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Innsiden av Java: Drivverket</title>
-      <link>/no/docs/api-reference/the-inside-of-java-the-inner-workings/</link>
+      <link>https://bpinelab.github.io/website/no/docs/api-reference/the-inside-of-java-the-inner-workings/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/no/docs/api-reference/the-inside-of-java-the-inner-workings/</guid>
+      <guid>https://bpinelab.github.io/website/no/docs/api-reference/the-inside-of-java-the-inner-workings/</guid>
       <description>
         
         

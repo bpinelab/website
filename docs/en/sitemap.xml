@@ -2,247 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/overview/</loc>
+    <loc>https://bpinelab.github.io/website/docs/overview/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/beds/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tasks/beds/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/ponycopters/configuring-ponycopters/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tasks/ponycopters/configuring-ponycopters/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/getting-started/</loc>
+    <loc>https://bpinelab.github.io/website/docs/getting-started/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/examples/</loc>
+    <loc>https://bpinelab.github.io/website/docs/examples/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/ponycopters/launching-ponycopters/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tasks/ponycopters/launching-ponycopters/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tutorials/multi-bear/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tutorials/multi-bear/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/porridge/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tasks/porridge/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/concepts/</loc>
+    <loc>https://bpinelab.github.io/website/docs/concepts/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/task/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tasks/task/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tutorials/tutorial2/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tutorials/tutorial2/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tasks/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tutorials/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tutorials/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/reference/</loc>
+    <loc>https://bpinelab.github.io/website/docs/reference/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/contribution-guidelines/</loc>
+    <loc>https://bpinelab.github.io/website/docs/contribution-guidelines/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>https://bpinelab.github.io/website/docs/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="/no/docs/"
+                href="https://bpinelab.github.io/website/no/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/docs/"
+                href="https://bpinelab.github.io/website/fa/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/docs/"
+                href="https://bpinelab.github.io/website/docs/"
                 />
   </url><url>
-    <loc>/blog/news/</loc>
+    <loc>https://bpinelab.github.io/website/blog/news/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/blog/news/"
+                href="https://bpinelab.github.io/website/fa/blog/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/news/"
+                href="https://bpinelab.github.io/website/blog/news/"
                 />
   </url><url>
-    <loc>/blog/releases/</loc>
+    <loc>https://bpinelab.github.io/website/blog/releases/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/blog/releases/"
+                href="https://bpinelab.github.io/website/fa/blog/releases/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/releases/"
+                href="https://bpinelab.github.io/website/blog/releases/"
                 />
   </url><url>
-    <loc>/blog/2018/10/06/easy-documentation-with-docsy/</loc>
+    <loc>https://bpinelab.github.io/website/blog/2018/10/06/easy-documentation-with-docsy/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/blog/2018/10/06/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/"
+                href="https://bpinelab.github.io/website/fa/blog/2018/10/06/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/2018/10/06/easy-documentation-with-docsy/"
+                href="https://bpinelab.github.io/website/blog/2018/10/06/easy-documentation-with-docsy/"
                 />
   </url><url>
-    <loc>/blog/2018/10/06/second-blog-post/</loc>
+    <loc>https://bpinelab.github.io/website/blog/2018/10/06/second-blog-post/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/blog/2018/01/04/another-great-release/</loc>
+    <loc>https://bpinelab.github.io/website/blog/2018/01/04/another-great-release/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://bpinelab.github.io/website/categories/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/categories/"
+                href="https://bpinelab.github.io/website/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="/no/categories/"
+                href="https://bpinelab.github.io/website/no/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://bpinelab.github.io/website/categories/"
                 />
   </url><url>
-    <loc>/tags/docs/</loc>
+    <loc>https://bpinelab.github.io/website/tags/docs/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/getting-started/example-page/</loc>
+    <loc>https://bpinelab.github.io/website/docs/getting-started/example-page/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/categories/examples/</loc>
+    <loc>https://bpinelab.github.io/website/categories/examples/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/reference/parameter-reference/</loc>
+    <loc>https://bpinelab.github.io/website/docs/reference/parameter-reference/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/tags/sample/</loc>
+    <loc>https://bpinelab.github.io/website/tags/sample/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://bpinelab.github.io/website/tags/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/tags/"
+                href="https://bpinelab.github.io/website/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="/no/tags/"
+                href="https://bpinelab.github.io/website/no/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://bpinelab.github.io/website/tags/"
                 />
   </url><url>
-    <loc>/tags/test/</loc>
+    <loc>https://bpinelab.github.io/website/tags/test/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/ponycopters/</loc>
+    <loc>https://bpinelab.github.io/website/docs/tasks/ponycopters/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://bpinelab.github.io/website/about/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/about/"
+                href="https://bpinelab.github.io/website/fa/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="https://bpinelab.github.io/website/about/"
                 />
   </url><url>
-    <loc>/blog/</loc>
+    <loc>https://bpinelab.github.io/website/blog/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/blog/"
+                href="https://bpinelab.github.io/website/fa/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="https://bpinelab.github.io/website/blog/"
                 />
   </url><url>
-    <loc>/community/</loc>
+    <loc>https://bpinelab.github.io/website/community/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/community/"
+                href="https://bpinelab.github.io/website/fa/community/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/community/"
+                href="https://bpinelab.github.io/website/community/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://bpinelab.github.io/website/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="/no/"
+                href="https://bpinelab.github.io/website/no/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/"
+                href="https://bpinelab.github.io/website/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://bpinelab.github.io/website/"
                 />
   </url><url>
-    <loc>/categories/placeholders/</loc>
+    <loc>https://bpinelab.github.io/website/categories/placeholders/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://bpinelab.github.io/website/search/</loc>
     <lastmod>2023-11-25T13:43:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="/no/search/"
+                href="https://bpinelab.github.io/website/no/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/search/"
+                href="https://bpinelab.github.io/website/fa/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/search/"
+                href="https://bpinelab.github.io/website/search/"
                 />
   </url>
 </urlset>
